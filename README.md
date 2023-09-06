@@ -12,6 +12,7 @@ Today I Learned
 
 - <a href="JS\자료형과 형 변환.md">자료형과 형 변환</a>
 - <a href="JS\함수.md">함수</a>
+- <a href="JS\화살표 함수.md">화살표 함수</a>
 
 <h3 style="text-indent:0.4em">통신</h3>
 
