@@ -22,6 +22,10 @@ Today I Learned
 
 - <a href="JS\통신\데이터를 서버에 요청하는 방법들.md">데이터를 서버에 요청하는 방법들</a>
 
+<h2>React</h2>
+
+- <a href="React\최적화 Hooks - React.memo.md">최적화 Hooks - React.memo</a>
+
 <h2 style="background-color:#c2e8b5; padding:6px 0 6px 10px"> Web Accessibility </h2>
 
 - <a href="Accessibility\웹접근성 고려하며 HTML 작성하기.md">웹접근성 고려하며 HTML 작성하기</a>
