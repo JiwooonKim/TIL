@@ -15,6 +15,7 @@ Today I Learned
 <h2 style="background-color:#faf5c3; padding:6px 0 6px 10px">JS</h2>
 
 - <a href="JS\자료형과 형 변환.md">자료형과 형 변환</a>
+- <a href="JS\배열.md">배열</a>
 - <a href="JS\함수.md">함수</a>
 - <a href="JS\화살표 함수.md">화살표 함수</a>
 
