@@ -7,7 +7,8 @@ Today I Learned
 <h2 style="background-color:#f2c3ae; padding:6px 0 6px 10px">HTML</h2>
 
 - <a href="HTML\DOCTYPE이란.md">DOCTYPE이란</a>
-- <a href="HTML/form.md">form 태그</a>
+- <a href="HTML\meta태그.md">meta 태그</a>
+- <a href="HTML\form태그.md">form 태그</a>
 
 <h2 style="background-color:#cae5fa; padding:6px 0 6px 10px">CSS</h2>
 
