@@ -8,6 +8,7 @@ Today I Learned
 
 - <a href="HTML\DOCTYPE이란.md">DOCTYPE이란</a>
 - <a href="HTML\meta태그.md">meta 태그</a>
+- <a href="HTML\시멘틱태그.md">시멘틱 태그</a>
 - <a href="HTML\form태그.md">form 태그</a>
 
 <h2 style="background-color:#cae5fa; padding:6px 0 6px 10px">CSS</h2>
