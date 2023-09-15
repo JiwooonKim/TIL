@@ -19,6 +19,7 @@ Today I Learned
 
 - <a href="JS\자료형과 형 변환.md">자료형과 형 변환</a>
 - <a href="JS\배열.md">배열</a>
+- <a href="JS\배열내장함수.md">배열내장함수</a>
 - <a href="JS\함수.md">함수</a>
 - <a href="JS\화살표 함수.md">화살표 함수</a>
 
