@@ -23,6 +23,7 @@ Today I Learned
 - <a href="JS\배열내장함수.md">배열내장함수</a>
 - <a href="JS\함수.md">함수</a>
 - <a href="JS\화살표 함수.md">화살표 함수</a>
+- <a href="JS\Truthy & Falsy.md">Truthy & Falsy</a>
 
 <h3 style="text-indent:0.4em">통신</h3>
 
