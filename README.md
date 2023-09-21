@@ -14,6 +14,7 @@ Today I Learned
 <h2 style="background-color:#cae5fa; padding:6px 0 6px 10px">CSS</h2>
 
 - <a href="CSS\CSS 최신기술.md">CSS 최신기술</a>
+- <a href="CSS\선택자.md">선택자</a>
 
 <h2 style="background-color:#faf5c3; padding:6px 0 6px 10px">JS</h2>
 
