@@ -40,3 +40,5 @@ Today I Learned
 <h2 style="background-color:#c2e8b5; padding:6px 0 6px 10px"> Web Accessibility </h2>
 
 - <a href="Accessibility\웹접근성 고려하며 HTML 작성하기.md">웹접근성 고려하며 HTML 작성하기</a>
+
+<h2 style="background-color:#c2e8b5; padding:6px 0 6px 10px"> Git </h2>
